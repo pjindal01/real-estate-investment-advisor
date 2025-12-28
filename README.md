@@ -15,5 +15,5 @@ The model provides consistent estimates of property value trends, supporting inf
 ## Business Impact
 Helps investors identify high-return properties and make data-backed real estate investment decisions.
 
-## Tech Stack
-Python, Pandas, NumPy, Scikit-learn
+## Skills
+Python | Pandas | NumPy | Scikit-learn | EDA | Feature Engineering | Model Evaluation
