@@ -17,3 +17,5 @@ Helps investors identify high-return properties and make data-backed real estate
 
 ## Skills
 Python | Pandas | NumPy | Scikit-learn | EDA | Feature Engineering | Model Evaluation
+
+Connect on LinkedIn: https://www.linkedin.com/in/pallavi-jindal-1a000786
